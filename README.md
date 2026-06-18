@@ -1,6 +1,6 @@
 # Cybernetic Evolution
 
-A futuristic cyberpunk landing page developed for the TechFest IIT Bombay 2026 Campus Ambassador Web Development Task.
+A futuristic cyberpunk landing page developed for the Techfest IIT Bombay 2026 Campus Ambassador Web Development Task.
 
 ## Features
 - Responsive design
